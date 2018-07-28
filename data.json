@@ -1,0 +1,50 @@
+{"details":{
+  "image":"profile.jpeg",
+  "name":"kiran",
+  "phoneno":"+91-2389742998",
+  "email":"kiranboppana1998@gmail.com",
+  "adress":"mic college of engineering kanchikacherla"
+},
+"carrer":{
+  "info":"to persue a challenging carrer in some reputed organization"
+},
+"education":[
+  {
+  "qualification":"b.tech",
+  "institute":"mic college",
+  "year":"2016-20",
+  "percentage":"80"
+},
+{
+  "qualification":"inter",
+  "institute":"sri chaitanya college",
+  "year":"20114-16",
+  "percentage":"96.6"
+},
+{
+  "qualification":"ssc",
+  "institute":"sri chaitanya",
+  "year":"2014",
+  "percentage":"9.3"
+}
+],
+"technicalskills":[
+  {
+    "title":"programming languages",
+    "info":[
+      "dbms,c,c++,java,python,r-studio"
+    ]
+  },
+  {
+    "title":"operating systems",
+    "info":["win10,win7,win8,linux,lubuntu,kali-linux"]
+  },
+  {
+    "title":"database",
+    "info":["sql","oracle"]
+  }
+],
+"achievements":{
+  "info":"education"
+}
+}
